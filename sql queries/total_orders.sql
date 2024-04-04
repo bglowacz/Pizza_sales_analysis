@@ -1,2 +1,1 @@
-INSERT INTO orders (amount_of_orders) VALUES
-	 (21350);
+select count(order_id) as amount_of_orders from orders o 
