@@ -4,4 +4,4 @@ The repository contains files with source data, SQL queries, and the data obtain
 - percentage share of individual pizzas by size
 - average and highest price of a single order
 - total quantity of all orders
-- the top 5 purchased pizza types
+- top 5 purchased pizza types
