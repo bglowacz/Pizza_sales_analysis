@@ -4,5 +4,4 @@ with
 	join orders o on o.order_id = od.order_id 
 	join pizza_types pt on pt.pizza_type_id = p.pizza_type_id
 	group by 1,2,3,4)
-
 select round(avg(order_price),2) as average_order_price from avg_order_price
